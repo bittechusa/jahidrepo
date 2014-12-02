@@ -16,7 +16,7 @@ How to initilize a new repository
 
 6. git commit -m "write any coment"
 
-7. git remote add origin copy the repository path
+7. git remote add origin (copy the repository path)
 
 8. git push -u origin master
 
